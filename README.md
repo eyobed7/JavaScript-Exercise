@@ -1,3 +1,5 @@
+
+![js banner](js.jpg)
 # JavaScript Basics: Exercises
 
 Below are exercises for each foundational JavaScript topic. Complete each task to practice and reinforce your understanding.
