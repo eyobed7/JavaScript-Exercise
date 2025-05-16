@@ -27,6 +27,7 @@ Below are exercises for each foundational JavaScript topic. Complete each task t
 19. [Exercise Switch Statement](#19-exercise-switch-statement)
 20. [Exercise Variable and Block Scope](#20-exercise-variable-and-block-scope)
 21. [Exercise Functions: Declaration, Expression, Arguments, and Parameters](#21-exercise-functions-declaration-expression-arguments-and-parameters)
+22. [Exercise On DOM](#22-DOM-Exercise)
 
 
 ### 1. Exercise: Console and console.log()
@@ -131,3 +132,45 @@ Below are exercises for each foundational JavaScript topic. Complete each task t
 
 ### 21. Exercise: Functions: Declaration, Expression, Arguments, and Parameters
 **Task:** Create a function `greet(name)` using both function declaration and expression. Log the result when called.
+
+### 22. DOM Exercise
+
+📝 1. Adding Content to the Browser
+Exercise:
+Create a <p> tag with your name and change it using JavaScript when the page loads.
+
+🎨 2. Changing CSS Styles
+Exercise:
+Make a square with a red background and change it to green using JavaScript.
+
+🖱️ 3. Reacting to User Events (Click)
+Exercise:
+Create a button that shows your favorite quote in an alert box when clicked.
+
+🎉 4. Cool Effects (Popups)
+Exercise:
+Use prompt() to ask the user for their nickname, and then use alert() to welcome them.
+
+➕ 5. Add or Delete Content
+Exercise:
+Add 2 new items to a list, then delete the first one using JavaScript.
+
+🔍 6. Selecting Elements (Querying)
+Exercise:
+Use querySelectorAll() to select all paragraphs and change their color to purple.
+
+🧾 7. innerText vs innerHTML
+Exercise:
+Create a <div> and use innerHTML to insert a bold welcome message.
+
+2️⃣ 8. Modifying Elements
+Exercise:
+Change the content of a heading (<h1>) to your school’s name and change the font size and color.
+
+3️⃣ 9. Creating and Removing Elements
+Exercise:
+Create a new <p> with your hobby and remove it after 5 seconds.
+
+4️⃣ 10. Responding to User Events
+Exercise:
+Make a box that changes color when you hover over it and shows a message when you click it.
